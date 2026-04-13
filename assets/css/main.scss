@@ -41,3 +41,15 @@
     "vendor/font-awesome/solid",
     "vendor/font-awesome/brands"
 ;
+
+/* CV download button in nav */
+.masthead__menu-item a.nav-btn {
+  padding: 0.3em 0.8em;
+  border: 2px solid currentColor;
+  border-radius: 4px;
+  font-weight: bold;
+  &:hover {
+    background-color: var(--global-masthead-link-color);
+    color: var(--global-bg-color);
+  }
+}
