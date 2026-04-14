@@ -4,21 +4,24 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
+header:
+  overlay_image: /banner.jpeg
+  hide_title: true
 ---
 
 ## About Me
 
-I use remote sensing, process-based modeling, and machine learning to research ecohydrological and hydroclimatological processes, especially wildfire and drought.
+I research interactions between the climate, vegetation, and the water cycle using remote sensing, process-based modeling, and machine learning. I am currently pursuing my PhD as a member of the [Konings Lab](https://koningslab.stanford.edu/) at Stanford.
 
-My work on wildfire focuses on burn severity, that is, how much biomass is lost to fire, and how climate change is modifying burn severity regimes in the Western United States. I am also interested in plant water stress and its role in wildfire risk. This includes using microwave remote sensing to track plant water potential (Ψ) and live fuel moisture content (LFMC) at landscape scales, with the goal of understanding how vegetation physiology mediates fire behavior under drought.
+In recent work, I've investigated satellite-based measurements of fire effects, particularly to understand how climate change is altering how forests respond to fire. I am also interested in improving our measurements of plant water stress, and understanding how drought mortality and wildfire risk might change under varying water availabliity.
 
 ---
 
 ## Recent Posts
 
-{% for post in site.posts limit:3 %}
+{% for post in site.posts limit:10 %}
 ### [{{ post.title }}]({{ post.url }})
 *{{ post.date | date: "%B %Y" }}*
 
-{{ post.excerpt }}
+{{ post.content }}
 {% endfor %}
