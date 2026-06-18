@@ -13,7 +13,7 @@ header:
 
 I research interactions between the climate, vegetation, and the water cycle using remote sensing, process-based modeling, and machine learning. I am currently pursuing my PhD as a member of the [Konings Lab](https://koningslab.stanford.edu/) at Stanford.
 
-In recent work, I've investigated satellite-based measurements of fire effects, particularly to understand how climate change is altering how forests respond to fire. I am also interested in improving our measurements of plant water stress, and understanding how drought mortality and wildfire risk might change under varying water availabliity.
+I'm interested in uncovering why fire has intensified in the western United States through improving our understanding of plant drought response, using ecohydrological and physical modeling as well as microwave satellite data. Current research efforts include understanding land-atmosphere coupling impacts on fuel moisture and fire, and quantifying plant-water relations at scale.
 
 ---
 

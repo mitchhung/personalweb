@@ -1,6 +1,6 @@
 ---
 title: '"High-severity fire now dominant in California forests" now published in PNAS!'
-date: 2026-04-01
+date: 2026-06-18
 permalink: /posts/2026/01/high-severity-fire-california/
 tags:
   - wildfire
