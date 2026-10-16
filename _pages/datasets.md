@@ -5,6 +5,14 @@ permalink: /datasets/
 author_profile: true
 ---
 
+## The Western United States Wildfire Severity (WestWiSe) Database
+
+Event-level remotely sensed burn severity across the western United States from 1985–2024.
+
+This dataset uses fire perimeters from [WUMI2024a](https://datadryad.org/dataset/doi:10.5061/dryad.63xsj3vd4). Data is organized as event-level GeoTIFFs, plus a gridded monthly product at 1-kilometer resolution showing forest burned area classified by severity level.
+
+[View on Zenodo](https://zenodo.org/records/23171832){: .btn .btn--primary}
+
 ## The California Interagency Wildfire Severity (CaliWiSe) Database
 
 ![CaliWiSe preview](/images/fires.png){: style="float: left; margin-right: 1.5em; margin-bottom: 1em; max-width: 260px;"}
